@@ -79,7 +79,7 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://localhost:8082/repository/maven-repo/</url>
+            <url>${nexus-repo}</url>
 		</snapshotRepository>
 	</distributionManagement>
 

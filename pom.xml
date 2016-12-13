@@ -79,7 +79,7 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>nexus</id>
-            <url>${nexus-repo}</url>
+            <url>${nexus.repo}</url>
 		</snapshotRepository>
 	</distributionManagement>
 
